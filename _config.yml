@@ -195,8 +195,8 @@ keybase-in-footer: True
 pages_list:
   Latest: 'latest-post'
   About: 'about'
-  Moar: '/blog/"'
-  Mgggoar: 'https://www.irishtimes.com'
+  Moar: '/blog/'
+  Mgggoar: https://www.irishtimes.com
 
 # Exclusion list from the generated _site
 
