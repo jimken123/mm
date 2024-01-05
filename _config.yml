@@ -201,7 +201,7 @@ keybase-in-footer: True
 
 
 header_pages:
-  - tags.html
+  - /tags/tutorial.html
 
 # Exclusion list from the generated _site
 
