@@ -192,16 +192,9 @@ keybase-in-footer: True
 
 # Sections shown in the index page
 
-
-
-# Attempt to fix Sections shown in the index page
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-
 pages_list:
-  About: "about"
   Blog: "latest-post"
+  About: "about"
   Contact: "contact"
 
 # Exclusion list from the generated _site
