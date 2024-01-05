@@ -192,7 +192,7 @@ keybase-in-footer: True
 
 # Sections shown in the index page
 
-pages_list:
+header_pages:
   Latest: 'latest-post'
   About: 'about'
   Moar: '/blog/'
@@ -202,8 +202,6 @@ pages_list:
 
 # Attempt to fix Sections shown in the index page
 
-header_pages:
-  - blog/foo.html
 
 # Exclusion list from the generated _site
 
