@@ -192,16 +192,16 @@ keybase-in-footer: True
 
 # Sections shown in the index page
 
-header_pages:
-  Latest: 'latest-post'
-  About: 'about'
-  Moar: '/blog/'
-  Foo: '/blog/foo.html'
-  Fiioo: '/blog/foo'
-  Mgggoar: https://www.irishtimes.com
+
 
 # Attempt to fix Sections shown in the index page
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+
+
+header_pages:
+  - tags.html
 
 # Exclusion list from the generated _site
 
