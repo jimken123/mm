@@ -203,6 +203,8 @@ keybase-in-footer: True
 header_pages:
   - about.md
   - portfolio.md
+  - tags.html
+  - tags
 
 # Exclusion list from the generated _site
 
