@@ -199,17 +199,12 @@ keybase-in-footer: True
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 
-
-header_pages:
-  - about.md
-  - portfolio.md
-  - tags.html
-  - tags
-
 pages_list:
-  Latest: 'latest-post'
-  - about
-  
+  About: "about"
+  Blog: "latest-post"
+  Timeline: "timeline"
+  Contact: "contact"
+
 # Exclusion list from the generated _site
 
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
@@ -226,3 +221,4 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+
