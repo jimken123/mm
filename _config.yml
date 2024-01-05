@@ -29,9 +29,9 @@ force-https: True
 
 lang: "en"
 author: "Jim"
-title: "manaña manaña"
+title: "manaña..."
 description: "Blog and website of Jim Kennedy."
-keywords: "shed, personal, jekyll, theme"
+keywords: "personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -196,7 +196,14 @@ pages_list:
   Latest: 'latest-post'
   About: 'about'
   Moar: '/blog/'
+  Foo: '/blog/foo.html'
+  Fiioo: '/blog/foo'
   Mgggoar: https://www.irishtimes.com
+
+# Attempt to fix Sections shown in the index page
+
+header_pages:
+  - blog/foo.html
 
 # Exclusion list from the generated _site
 
