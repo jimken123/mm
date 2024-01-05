@@ -171,6 +171,8 @@ social:
     url: "https://github.com/jimken123"
   - title: "rss"
     url: "/feed.xml"
+  - title: "mastodon"
+    url: "https://mastodon.social/jimkennedy"
 
 ############
 # 404 page #
