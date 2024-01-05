@@ -206,6 +206,10 @@ header_pages:
   - tags.html
   - tags
 
+pages_list:
+  Latest: 'latest-post'
+  - about
+  
 # Exclusion list from the generated _site
 
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
