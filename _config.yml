@@ -201,7 +201,8 @@ keybase-in-footer: True
 
 
 header_pages:
-  - /tags/tutorial.html
+  - about.md
+  - portfolio.md
 
 # Exclusion list from the generated _site
 
