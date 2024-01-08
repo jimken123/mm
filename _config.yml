@@ -194,10 +194,13 @@ keybase-in-footer: True
 
 # Sections shown in the index page
 
-pages_list:
-  Blog: "latest-post"
-  About: "about"
-  Contact: "contact"
+
+navigation:
+- text: Arcdddhives
+  url: /nu-blog/archives/
+- text: About
+  url: /nu-blog/about/
+
 
 # Exclusion list from the generated _site
 
