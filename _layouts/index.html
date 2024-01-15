@@ -8,25 +8,23 @@
 
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top"  data-offset="151">
 
-
     {% include header.html %}
     
     {% include navigation.html %}
 
-    {% for p in site.pages_list %}
-      {% for page in site.pages %}
-        {% if p[1] == page.section-type %}
-          {% include {{ page.path }} %}
-        {% endif %}
-      {% endfor %}
+    <section id="page" class="container content-section text-center">
+      <h2>latesfffft post</h2>
+      
+    </section>
 
-    {% endfor %}
+    {% include latest-post.html %}
 
     {% include footer.html %}
 
     {% include js.html %}
 
   </body>
+
 </html>
 
 <!-- Index Layout End -->
