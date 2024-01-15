@@ -9,6 +9,7 @@
 
 * Orangeified it, of course.
 * I've simplified the menu nav bar to be more old-school - direct links, no if statements.
+* Removed a bunch of stuff I don't need.
 
 ## How to run locally
 
