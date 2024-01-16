@@ -9,7 +9,7 @@ url: "https://jimken123.github.io/personal-jekyll-theme"
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 #
-# NB! Without this *nothing* will work, because it's used in every path :)
+# NB! Without this nothing will work, because it's used in every path :)
 
 baseurl: /personal-jekyll-theme
 
