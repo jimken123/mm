@@ -4,7 +4,7 @@
 
 require 'fileutils'
 
-personal = "../personal-jekyll-theme"
+personal = "../nu-blog"
 
 repoDirectories = [ '_includes', '_layouts', '_sass', 'blog', 'css', 'js' ]
 repoFiles = [ 'feed.xml', 'manifest.json', 'sitemap.xml' ]
