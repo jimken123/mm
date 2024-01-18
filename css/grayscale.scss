@@ -470,3 +470,17 @@ body {
 .fourofour {
   border: 1px solid $primary-color !important;
 }
+
+/* Divider in Footer */
+/* Call this divider with <hr class="gradient"> */
+
+hr.gradient {
+    height: 3px;
+    border: none;
+    border-radius: 6px;
+    background: linear-gradient(
+      90deg,
+      #000 0%,
+      #ff6900 100%
+    );
+  }
