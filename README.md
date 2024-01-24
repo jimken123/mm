@@ -54,7 +54,7 @@ A new post template with name YYYY-MM-DD-hello-world.md will be created under ./
 In the .md file add the image with this syntax:
 
 ```shell
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+![image-title-here](/name-of-repo/img/intro-bg6.jpg){:class="img-responsive"}
 ```
 
 ## Generate tag pages
