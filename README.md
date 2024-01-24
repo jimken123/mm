@@ -44,7 +44,6 @@ The Sitemap is automatically generated and placed in /sitemap.xml.
 Run the script with the file name of the post as an argument:
 
 ```shell
-cd <your { Personal } repo>
 ./scripts/newpost hello-world
 ```
 
