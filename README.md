@@ -49,6 +49,14 @@ Run the script with the file name of the post as an argument:
 
 A new post template with name YYYY-MM-DD-hello-world.md will be created under ./_posts, with the current date.
 
+## Add an image to a blogpost
+
+In the .md file add the image with this syntax:
+
+```shell
+![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+```
+
 ## Generate tag pages
 
 ```shell

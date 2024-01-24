@@ -12,6 +12,9 @@ djkfbdkjvdkv
 
 sdjgdlkgjdlkvjds
 
+fdlkfgbdfkds
 nlvndslnldvndlsvd
 
-/img/intro-bg6.jpg
+"/img/intro-bg6.jpg"
+
+ffff
