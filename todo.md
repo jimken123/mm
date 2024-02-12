@@ -50,7 +50,6 @@ This is a general list of what needs to be added.
 - List of top 100 books - like https://www.openculture.com/2013/10/david-bowies-list-of-top-100-books.html
 - Vitsoe.com 10 rules
 - Fictionable.world
-- jetcim
 - Tsundoko
 - Reason for... blogpost
 - Rumours of firewood
@@ -144,6 +143,7 @@ The river runs low
 - [X] trips reports (Americas)
 - [X] Change all absolute links to relative links
 - [X] Fix videos, flash, etc. from .txt
+- [X] jetcim
 
 ## Will not do:
 
