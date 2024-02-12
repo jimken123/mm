@@ -1,10 +1,14 @@
 ---
+layout: gallery
 galleries:
   - title: Link to image gallery
-    image: /img/grand-canyon/bren0011.jpg
-    url: /img/grand-canyon
+    image: img/grand-canyon/bren0011.jpg
+    url: /img/grand-canyon.html
 ---
 
 Bah!
 
 {% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+
+{% include image-gallery-index.html %}
+
