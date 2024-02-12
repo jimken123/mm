@@ -1,14 +1,17 @@
 # Manana Manana 2024
 
+Due date is beginning of September 2024.
+
 ## Tech fixes
 
 This is what I need to do.
 
 - download Wordpress ohpiglet content
-- old blog photos?
+- content on old blog, which is still on wp (no access) but partly on blacknight
 - remove all content from blacknight
 - Plausible for basic metrics
 - Fix videos, flash, etc. from .txt
+- remove the splash page and go direct to nu-blog index
 
 ## Need to add
 
@@ -19,12 +22,25 @@ This is a list of what needs to be added.
 - recipes
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Can I build FB archive? - It's under settings & privacy, apparently.
-- Add gallery with Grand Canyon, Corsica, etc.
+- Add gallery with Grand Canyon, Corsica, etc. - https://github.com/opieters/jekyll-image-gallery-example
 - add webmentions
 - add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - add activitypub
 - add search bar
+- Redo favicon, delete old favicon?
+- anything in the EXTRA folder
 
+## Gallery
+
+- rebuild the gallery in Jekyll in new repo - https://github.com/opieters/jekyll-image-gallery-example
+- add Grand Canyon from desktop
+- add snowboarding from desktop
+- add Grand Canyon from desktop
+
+## Need to redo
+
+- 404 page
+  
 ## Will not do:
 
 - sidebar - like https://gwcoffey.com - takes up too much space on mobile
@@ -57,10 +73,20 @@ This is a list of what needs to be added.
 - https://www.logitblog.com/moved-away-from-wordpress-to-github-pages/ 
 - https://kwon.nyc/colophon/ - plausible and typefaces
 
+## Blacknight
+
+- remove Scotland content once it's up on repos
+- point name servers to cloud flare
+- check Scotland content is still up
+- remove all content once it's up on repos
+- remove autorenew ssl cert
+- remove autorenew storage pack
+  
 ## Inspiring ideas
 
 - Weeknotes - a blogpost ever week, just compiling things you do in the week - https://tomstu.art/weeknotes-204-expensive-coffee
 - https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/
+
 ## From Rebecca
 
 Contact lenses
@@ -115,3 +141,11 @@ Orange is a sound
 The hairdresser who now works in the supermarket is a hypochondriac
 The meditation bench beside the vegetation patch
 The river runs low
+
+### DONE
+
+- [X] hprfc
+- [X] trips reports (Portugal)
+- [X] trips reports (Italy)
+- [X] trips reports (Americas)
+- [X] Change all absolute links to relative links
