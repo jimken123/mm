@@ -6,23 +6,21 @@ Due date is beginning of September 2024.
 
 This is what I need to do.
 
-- download Wordpress ohpiglet content
 - content on old blog, which is still on wp (no access) but partly on blacknight
+- download Wordpress ohpiglet content
 - remove all content from blacknight
 - Plausible for basic metrics
-- Fix videos, flash, etc. from .txt
 - remove the splash page and go direct to nu-blog index
 
 ## Need to add
 
-This is a list of what needs to be added.
+This is a general list of what needs to be added.
 
-- ohpiglet
-- old landing pages
-- recipes
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
+- Redo favicon, delete old favicon?
+- ohpiglet as non-wp?
+- old landing pages
 - Can I build FB archive? - It's under settings & privacy, apparently.
-- Add gallery with Grand Canyon, Corsica, etc. - https://github.com/opieters/jekyll-image-gallery-example
 - add webmentions
 - add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - add activitypub
@@ -30,7 +28,7 @@ This is a list of what needs to be added.
 - Redo favicon, delete old favicon?
 - anything in the EXTRA folder
 
-## Gallery
+### Add Gallery
 
 - rebuild the gallery in Jekyll in new repo - https://github.com/opieters/jekyll-image-gallery-example
 - add Grand Canyon from desktop
@@ -40,13 +38,10 @@ This is a list of what needs to be added.
 ## Need to redo
 
 - 404 page
-  
-## Will not do:
-
-- sidebar - like https://gwcoffey.com - takes up too much space on mobile
  
 ## Drafts folder and list of ideas
 
+- Write about the liberation of creating twitter archive
 - Dublin Opinion stuff
 - Herbert Park Rangers Football Club
 - The year/week in review
@@ -62,7 +57,6 @@ This is a list of what needs to be added.
 - Write about Llavorsí
 - Write about shed
 - Public committment to build a thing a week
-- Write about the liberation of creating twitter archive
 - Manifesto, like dieter rams 10 principles of good design
 - Dubliners map, mastodon.ie, bot
 - Mastodon Book Toot
@@ -142,10 +136,16 @@ The hairdresser who now works in the supermarket is a hypochondriac
 The meditation bench beside the vegetation patch
 The river runs low
 
-### DONE
+### Done
 
 - [X] hprfc
 - [X] trips reports (Portugal)
 - [X] trips reports (Italy)
 - [X] trips reports (Americas)
 - [X] Change all absolute links to relative links
+- [X] Fix videos, flash, etc. from .txt
+
+## Will not do:
+
+- sidebar - like https://gwcoffey.com - takes up too much space on mobile
+- recipes
