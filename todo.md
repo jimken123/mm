@@ -19,7 +19,7 @@ This is a list of what needs to be added.
 - recipes
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Can I build FB archive? - It's under settings & privacy, apparently.
-- Add gallery with Grand Canyon, Corsica, etc.
+- Add gallery with Grand Canyon, Corsica, etc. - https://github.com/opieters/jekyll-image-gallery-example
 - add webmentions
 - add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - add activitypub
