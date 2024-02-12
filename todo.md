@@ -16,8 +16,16 @@ This is what I need to do.
 
 This is a general list of what needs to be added.
 
+### Important/Now
+
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
+- Submenu
 - Redo favicon, delete old favicon?
+- move ohpiglet from mm/ohpiglet to github
+- gallery (see below)
+  
+### Not Important/Later
+
 - ohpiglet as non-wp?
 - old landing pages
 - Can I build FB archive? - It's under settings & privacy, apparently.
@@ -25,15 +33,14 @@ This is a general list of what needs to be added.
 - add dark mode - like in https://mademistakes.com/mastering-jekyll/how-to-link/
 - add activitypub
 - add search bar
-- Redo favicon, delete old favicon?
 - anything in the EXTRA folder
 
 ### Add Gallery
 
-- rebuild the gallery in Jekyll in new repo - https://github.com/opieters/jekyll-image-gallery-example
+- rebuild the gallery in Jekyll - maybe this 'no plugin' option - https://jekyllcodex.org/without-plugin/image-gallery/#
 - add Grand Canyon from desktop
 - add snowboarding from desktop
-- add Grand Canyon from desktop
+- add Corsica maybe from desktop
 
 ## Need to redo
 
@@ -41,11 +48,11 @@ This is a general list of what needs to be added.
  
 ## Drafts folder and list of ideas
 
+- Hello World -
 - Write about the liberation of creating twitter archive
 - Dublin Opinion stuff
 - Herbert Park Rangers Football Club
 - The year/week in review
-- Around.com for single line mission statement
 - My year in books. Keep a list of what I've read
 - List of top 100 books - like https://www.openculture.com/2013/10/david-bowies-list-of-top-100-books.html
 - Vitsoe.com 10 rules
@@ -144,6 +151,7 @@ The river runs low
 - [X] Change all absolute links to relative links
 - [X] Fix videos, flash, etc. from .txt
 - [X] jetcim
+- [X] Around.com for single line mission statement - this is covered by About
 
 ## Will not do:
 
