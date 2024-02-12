@@ -41,11 +41,15 @@ This is a general list of what needs to be added.
  
 ## Drafts folder and list of ideas
 
+### Pages
+
+
+### Blogposts
+
 - Write about the liberation of creating twitter archive
 - Dublin Opinion stuff
 - Herbert Park Rangers Football Club
 - The year/week in review
-- Around.com for single line mission statement
 - My year in books. Keep a list of what I've read
 - List of top 100 books - like https://www.openculture.com/2013/10/david-bowies-list-of-top-100-books.html
 - Vitsoe.com 10 rules
