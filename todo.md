@@ -18,11 +18,11 @@ This is a general list of what needs to be added.
 
 ### Important/Now
 
+- gallery (see below)
+- Submenu - already started
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
-- Submenu
 - Redo favicon, delete old favicon?
 - move ohpiglet from mm/ohpiglet to github
-- gallery (see below)
 - ohpiglet as non-wp?
 - old landing pages
   
@@ -37,8 +37,7 @@ This is a general list of what needs to be added.
 
 ### Add Gallery
 
-- rebuild the gallery in Jekyll 
-- add Grand Canyon from desktop
+- rebuild the gallery in Jekyll - already started
 - add snowboarding from desktop
 - add Corsica maybe from desktop
 
@@ -157,6 +156,7 @@ The river runs low
 - [X] Fix videos, flash, etc. from .txt
 - [X] jetcim
 - [X] Around.com for single line mission statement - this is covered by About
+- [X] add Grand Canyon folder from desktop
 
 ## Will not do:
 
