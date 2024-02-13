@@ -18,6 +18,7 @@ This is a general list of what needs to be added.
 
 ### Important/Now
 
+- Contact wp about getting access to mm.wordpress.com
 - gallery (see below)
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Redo favicon, delete old favicon?
