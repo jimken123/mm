@@ -6,7 +6,7 @@ Due date is beginning of September 2024.
 
 This is what I need to do.
 
-- content on old blog, which is still on wp (no access) but partly on blacknight
+- contact wp about content on old blog, which is still no access but partly on blacknight
 - download Wordpress ohpiglet content
 - remove all content from blacknight
 - Plausible for basic metrics
@@ -35,6 +35,8 @@ This is a general list of what needs to be added.
 - add search bar
 - anything in the EXTRA folder
 - redo 404 page
+- RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
+- SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
 
 ### Add Gallery
 
@@ -46,8 +48,7 @@ This is a general list of what needs to be added.
 
 ### Pages
 
-- Jetcim
-- Tsundoko - My year in books. Keep adding to the list of what I've read
+- Tsundoko - My year in books. Keep adding to the list of what I've read.
 
 ### Blogposts
 
