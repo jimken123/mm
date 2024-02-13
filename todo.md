@@ -19,7 +19,6 @@ This is a general list of what needs to be added.
 ### Important/Now
 
 - gallery (see below)
-- Submenu - already started
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Redo favicon, delete old favicon?
 - move ohpiglet from mm/ohpiglet to github
@@ -34,6 +33,7 @@ This is a general list of what needs to be added.
 - add activitypub
 - add search bar
 - anything in the EXTRA folder
+- redo 404 page
 
 ### Add Gallery
 
@@ -41,10 +41,6 @@ This is a general list of what needs to be added.
 - add snowboarding from desktop
 - add Corsica maybe from desktop
 
-## Need to redo
-
-- 404 page
- 
 ## Drafts folder and list of ideas
 
 ### Pages
@@ -162,3 +158,4 @@ The river runs low
 
 - sidebar - like https://gwcoffey.com - takes up too much space on mobile
 - recipes
+- Submenu
