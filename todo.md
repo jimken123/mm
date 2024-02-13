@@ -35,6 +35,8 @@ This is a general list of what needs to be added.
 - add search bar
 - anything in the EXTRA folder
 - redo 404 page
+- RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
+- SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
 
 ### Add Gallery
 
