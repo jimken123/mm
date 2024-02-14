@@ -6,7 +6,6 @@ Due date is beginning of September 2024.
 
 This is what I need to do.
 
-- contact wp about content on old blog, which is still no access but partly on blacknight
 - download Wordpress ohpiglet content
 - remove all content from blacknight
 - Plausible for basic metrics
@@ -18,7 +17,7 @@ This is a general list of what needs to be added.
 
 ### Important/Now
 
-- Contact wp about getting access to mm.wordpress.com
+- update images on old blog
 - gallery (see below)
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Redo favicon, delete old favicon?
@@ -154,7 +153,10 @@ The river runs low
 - [X] Fix videos, flash, etc. from .txt
 - [X] jetcim
 - [X] Around.com for single line mission statement - this is covered by About
-- [X] add Grand Canyon folder from desktop
+- [X] add Grand Canyon folder from desktop\
+- [X] fix lack of html on latest-post in index
+- [X] Contact wp about getting access to mm.wordpress.com
+- [x] contact wp about content on old blog, which is still no access but partly on blacknight
 
 ## Will not do:
 
