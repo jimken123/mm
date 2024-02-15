@@ -17,7 +17,6 @@ This is a general list of what needs to be added.
 
 ### Important/Now
 
-- update images on old blog
 - gallery (see below)
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Redo favicon, delete old favicon?
@@ -51,7 +50,6 @@ This is a general list of what needs to be added.
 
 ### Blogposts
 
-- Hello World
 - Write about the liberation of creating twitter archive
 - Dublin Opinion stuff (short)
 - Herbert Park Rangers Football Club
@@ -157,6 +155,8 @@ The river runs low
 - [X] fix lack of html on latest-post in index
 - [X] Contact wp about getting access to mm.wordpress.com
 - [x] contact wp about content on old blog, which is still no access but partly on blacknight
+- [x] update images on old blog
+- [x] Hello World Blogposts
 
 ## Will not do:
 
