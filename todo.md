@@ -1,6 +1,6 @@
 # Manana Manana 2024
 
-Due date is beginning of September 2024..
+Due date is beginning of September 2024...
 
 ## Tech fixes
 
