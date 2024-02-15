@@ -35,6 +35,7 @@ This is a general list of what needs to be added.
 - redo 404 page
 - RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
 - SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
+- publish draft blogposts in old blog
 
 ### Add Gallery
 
