@@ -17,6 +17,7 @@ This is a general list of what needs to be added.
 
 ### Important/Now
 
+- publish draft blogposts in old blog
 - gallery (see below)
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Redo favicon, delete old favicon?
@@ -35,7 +36,6 @@ This is a general list of what needs to be added.
 - redo 404 page
 - RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
 - SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
-- publish draft blogposts in old blog
 
 ### Add Gallery
 
