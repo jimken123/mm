@@ -17,7 +17,8 @@ This is a general list of what needs to be added.
 
 ### Important/Now
 
-- publish draft blogposts in old blog
+- Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
+- Outsider article by Coran (pdf) on Grand Canyon
 - gallery (see below)
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
 - Redo favicon, delete old favicon?
@@ -164,3 +165,4 @@ The river runs low
 - sidebar - like https://gwcoffey.com - takes up too much space on mobile
 - recipes
 - Submenu
+- publish draft blogposts in old blog
