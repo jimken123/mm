@@ -8,7 +8,7 @@ This is what I need to do.
 
 - download Wordpress ohpiglet content
 - remove all content from blacknight
-- Plausible for basic metrics
+- some free Plausible for metrics
 - remove the splash page and go direct to nu-blog index
 
 ## Need to add
@@ -77,7 +77,7 @@ This is a general list of what needs to be added.
 ## Blacknight
 
 - remove Scotland content once it's up on repos
-- point name servers to cloud flare
+- point name servers to cloudflare
 - check Scotland content is still up
 - remove all content once it's up on repos
 - remove autorenew ssl cert
