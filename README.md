@@ -1,11 +1,6 @@
 # nu blog
 
-Based on { Personal } Jekyll Theme
-![Build Status](https://travis-ci.org/le4ker/personal-jekyll-theme.svg?branch=master)
-![license](https://img.shields.io/badge/license-MIT-blue.svg?link=https://github.com/dono-app/ios/blob/master/LICENSE)
-[![Join the chat at https://gitter.im/PanosSakkos/personal-jekyll-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/panossakkos/personal-jekyll-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-{ Personal } is a free responsive Jekyll theme, forked from [here](https://le4ker.github.io/personal-jekyll-theme/).
+Based on { Personal } Jekyll Theme, a free responsive Jekyll theme, forked from [here](https://le4ker.github.io/personal-jekyll-theme/).
 
 ## My changes
 
@@ -73,7 +68,6 @@ This is what I need to do.
 
 - download Wordpress ohpiglet content
 - remove all content from blacknight
-- some free Plausible for metrics
 - remove the splash page and go direct to nu-blog index
 
 ### Need to add
@@ -117,6 +111,7 @@ This is a general list of what needs to be added.
 
 #### Blogposts
 
+- Eno
 - Write about the liberation of creating twitter archive
 - Dublin Opinion stuff (short)
 - Herbert Park Rangers Football Club
@@ -210,6 +205,7 @@ The river runs low
 
 #### Done
 
+- [X] some free goatcounter for metrics
 - [X] hprfc
 - [X] trips reports (Portugal)
 - [X] trips reports (Italy)
