@@ -42,14 +42,14 @@ Run the script with the file name of the post as an argument:
 ./scripts/newpost hello-world
 ```
 
-A new post template with name YYYY-MM-DD-hello-world.md will be created under ./_posts, with the current date.
+A new post template with name YYYY-MM-DD-hello-world.md will be created under ./_posts, with the current date. Update the title, edit/delete tags, etc. Oh, and add some content.
 
 ## Add an image to a blogpost
 
 In the .md file add the image with this syntax:
 
 ```shell
-![image-title-here](/name-of-repo/img/intro-bg6.jpg){:class="img-responsive"}
+<img src="img/image-name.jpg">
 ```
 
 ## Generate tag pages
