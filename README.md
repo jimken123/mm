@@ -46,10 +46,12 @@ A new post template with name YYYY-MM-DD-hello-world.md will be created under ./
 
 ## Add an image to a blogpost
 
-In the .md file add the image with this syntax:
+Images for a new blogpost should be added to the /img/YYYY folder.
+
+In the .md file call the image with this syntax:
 
 ```shell
-<img src="img/image-name.jpg">
+<img src="{{site.baseurl}}/img/YYYY/image-name.jpg">
 ```
 
 ## Generate tag pages
