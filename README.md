@@ -1,6 +1,6 @@
 # nu blog
 
-Based on { Personal } Jekyll Theme, a free responsive Jekyll theme, forked from [here](https://le4ker.github.io/personal-jekyll-theme/).
+A revamp of my mananamanana.com website, turning the long-dormant front page into a Jekyll-based blog. It's based on [{ Personal } Jekyll Theme](https://le4ker.github.io/personal-jekyll-theme/).
 
 ## My changes
 
@@ -82,7 +82,6 @@ This is a general list of what needs to be added.
 - Outsider article by Coran (pdf) on Grand Canyon
 - gallery (see below)
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
-- Redo favicon, delete old favicon?
 - move ohpiglet from mm/ohpiglet to github
 - ohpiglet as non-wp?
 - old landing pages
@@ -130,7 +129,7 @@ This is a general list of what needs to be added.
 - Dubliners map, mastodon.ie, bot
 - Mastodon Book Toot
 
-### export Wordpress
+### Export Wordpress
 
 - Devopslife.io - export wordpress - https://devopslife.io/migrating-wordpress-to-github-pages/
 - https://www.logitblog.com/moved-away-from-wordpress-to-github-pages/ 
@@ -207,6 +206,7 @@ The river runs low
 
 #### Done
 
+- [X] Redo favicon, delete old favicon?
 - [X] some free goatcounter for metrics
 - [X] hprfc
 - [X] trips reports (Portugal)
