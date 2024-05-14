@@ -76,16 +76,20 @@ This is what I need to do.
 
 This is a general list of what needs to be added.
 
-#### Important/Now
+#### Most Important/Now
+
+- copy ohpiglet from mm/ohpiglet to github
+- repoint dns from mm to gh
+- repopulate mm on gh
+
+#### Secondary Importance
 
 - Outsider article by Jim (messy html)- Old article on kayaking in Latin America. 
 - Outsider article by Coran (pdf) on Grand Canyon
 - gallery (see below)
 - About - Explain history of mm.com with screengrabs of old frontpages, talk about inventing blogging, losing content to fb
-- move ohpiglet from mm/ohpiglet to github
-- ohpiglet as non-wp?
 - old landing pages
-  
+
 #### Not Important/Later
 
 - Can I build FB archive? - It's under settings & privacy, apparently.
