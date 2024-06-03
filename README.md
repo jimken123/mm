@@ -51,7 +51,7 @@ Images for a new blogpost should be added to the /img/YYYY folder.
 In the .md file call the image with this syntax:
 
 ```shell
-<img src="{{site.baseurl}}/img/YYYY/image-name.jpg">
+<img src="{{site.baseurl}}/img/YYYY/image-name.jpg" alt="alt text.">
 ```
 
 ## Generate tag pages
