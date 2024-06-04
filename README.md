@@ -68,6 +68,7 @@ Due date is beginning of September 2024...
 
 This is what I need to do.
 
+- add extra blank h2 to layouts
 - download Wordpress ohpiglet content
 - remove all content from blacknight
 - remove the splash page and go direct to nu-blog index
