@@ -68,7 +68,6 @@ Due date is beginning of September 2024...
 
 This is what I need to do.
 
-- add extra blank h2 to layouts
 - download Wordpress ohpiglet content
 - remove all content from blacknight
 - remove the splash page and go direct to nu-blog index
@@ -99,7 +98,6 @@ This is a general list of what needs to be added.
 - add activitypub
 - add search bar
 - anything in the EXTRA folder
-- redo 404 page
 - RSS FEED - The RSS feed is automatically generated and placed in /feed.xml.
 - SITEMAP - The Sitemap is automatically generated and placed in /sitemap.xml
 
@@ -211,6 +209,7 @@ The river runs low
 
 #### Done
 
+- [X] add extra blank h2 to layouts
 - [X] Redo favicon, delete old favicon?
 - [X] some free goatcounter for metrics
 - [X] hprfc
@@ -230,6 +229,7 @@ The river runs low
 
 ### Will not do:
 
+- redo 404 page
 - sidebar - like https://gwcoffey.com - takes up too much space on mobile
 - recipes
 - Submenu
