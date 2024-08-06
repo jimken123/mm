@@ -11,7 +11,7 @@ url: "https://jimken123.github.io/"
 #
 # NB! Without this nothing will work, because it's used in every path :)
 
-baseurl: /nu-blog
+# baseurl: /nu-blog
 
 # Google tracking id
 
