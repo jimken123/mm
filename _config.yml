@@ -213,3 +213,4 @@ gems:
   - jekyll-paginate
   - jemoji
 
+plugins: [jekyll-paginate]
