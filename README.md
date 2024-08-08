@@ -1,12 +1,15 @@
-# nu blog
+# mananamanana.com website
 
-A revamp of my mananamanana.com website, turning the long-dormant front page into a Jekyll-based blog. It's based on [{ Personal } Jekyll Theme](https://le4ker.github.io/personal-jekyll-theme/).
+After 20+ years, mananamanana.com moves to Github, Jekyll, and all that, and away from the hand-crafted html and spacer.gifs of yore. We still don't jetpacks but, hey, we have markdown files and Github actions at least. Automagical website!
+
+The long-dormant front page has been migrated to a Jekyll blog, based on [{ Personal } Jekyll Theme](https://le4ker.github.io/personal-jekyll-theme/). Also transformed is /ohpiglet, continuing to chart the lives of the three monkeys and a woodland creature of the forest floor that we found up a tree. Originally a Tumblr, then a wWrdPress, and now a Jekyll blog.
 
 ## My changes
 
 * Orangeified it, of course.
 * I've simplified the menu nav bar to be more old-school - direct links, no if statements.
 * Removed a bunch of stuff I don't need.
+* Dark mode yo!
 
 ## How to run locally
 
@@ -68,9 +71,7 @@ Due date is beginning of September 2024...
 
 This is what I need to do.
 
-- download Wordpress ohpiglet content
 - remove all content from blacknight
-- remove the splash page and go direct to nu-blog index
 
 ### Need to add
 
@@ -78,9 +79,9 @@ This is a general list of what needs to be added.
 
 #### Most Important/Now
 
-- copy ohpiglet from mm/ohpiglet to github
-- repoint dns from mm to gh
-- repopulate mm on gh
+- [] repoint dns from mm to gh
+- [] repopulate mm on gh
+- [] add various subdomains
 
 #### Secondary Importance
 
@@ -209,6 +210,9 @@ The river runs low
 
 #### Done
 
+- [X] copy ohpiglet from mm/ohpiglet to github
+- [X] download Wordpress ohpiglet content
+- [X] remove the splash page and go direct to nu-blog index
 - [X] add extra blank h2 to layouts
 - [X] Redo favicon, delete old favicon?
 - [X] some free goatcounter for metrics
