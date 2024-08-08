@@ -9,4 +9,4 @@ Bit by bit I am adding the old content back into mananamanana.com; today it's th
 
 <img src="{{site.baseurl}}/img/2024/cropped-1234-dublinopinionbanner.jpg" alt="">
 
-Anyway, my contributions to that wide-ranging blog are now available here on [mananamanana](https://dublinopinion.mananamanana.com). I was active there from 2006 to 2010, talking mostly about gigs and music, mostly in Dublin.
+Anyway, my contributions to that wide-ranging blog are now available here on [dublinopinion.mananamanana.com](https://dublinopinion.mananamanana.com). I was active there from 2006 to 2010, talking mostly about gigs and music, mostly in Dublin.
